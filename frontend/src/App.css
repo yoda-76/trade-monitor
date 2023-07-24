@@ -1,0 +1,11 @@
+.card-body {
+  transition: all 0.3s ease;
+}
+
+.shift-left {
+  transform: translateX(-20px); /* Adjust the value to control the shift distance */
+}
+
+.pop-button {
+  transform: translateX(50px); /* Adjust the value to control the pop distance */
+}
